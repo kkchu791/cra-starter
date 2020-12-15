@@ -1,3 +1,3 @@
 ## starter kit
 
-a simple starter kit for cra with material design
+a simple starter kit for CRA with material design
